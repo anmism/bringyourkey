@@ -4,9 +4,9 @@
       "source": "/bulk-email-sender/:match*",
       "destination": "https://bulk-email-sender-psi.vercel.app/:match*"
     },  
-   {
-      "source": "/easy-visual-scraper/:path*",
-      "destination": "https://easy-visual-scraper.vercel.app/:path*"
+  {
+      "source": "/easy-visual-scraper/:match*",
+      "destination": "https://easy-visual-scraper.vercel.app/easy-visual-scraper/:match*"
     },
     {
       "source": "/not-just/:match*",
