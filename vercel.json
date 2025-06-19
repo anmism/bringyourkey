@@ -6,7 +6,7 @@
     },
     {
       "source": "/easy-visual-scraper",
-      "destination": "https://easy-visual-scraper.vercel.app/"
+      "destination": "https://easy-visual-scraper.vercel.app"
     },
      {
       "source": "/easy-visual-scraper/config",
