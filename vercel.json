@@ -15,6 +15,7 @@
     {
       "source": "/github-blog-automator/:match*",
       "destination": "https://github-blog-automator.vercel.app/:match*"
-    }
+    },
+     { "source": "/(.*)", "destination": "/" }
   ]
 }
