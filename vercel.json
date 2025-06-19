@@ -3,14 +3,14 @@
     {
       "source": "/bulk-email-sender/:match*",
       "destination": "https://bulk-email-sender-psi.vercel.app/:match*"
-    },  
-  {
+    },
+    {
       "source": "/easy-visual-scraper/:match*",
-      "destination": "https://easy-visual-scraper.vercel.app/easy-visual-scraper/:match*"
+      "destination": "https://easy-visual-scraper.vercel.app/:match*"
     },
     {
       "source": "/not-just/:match*",
-      "destination": "https://not-just-six.vercel.app/:match*"
+      "destination": "https://not-just-theta.vercel.app/:match*"
     },
     {
       "source": "/github-blog-automator/:match*",
