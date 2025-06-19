@@ -5,7 +5,7 @@
       "destination": "https://bulk-email-sender-psi.vercel.app/:match*"
     },
     {
-      "source": "/easy-visual-scraper/:match*",
+      "source": "/easy-visual-scraper/:match(.*)",
       "destination": "https://easy-visual-scraper.vercel.app/:match*"
     },
     {
@@ -15,7 +15,6 @@
     {
       "source": "/github-blog-automator/:match*",
       "destination": "https://github-blog-automator.vercel.app/:match*"
-    },
-     { "source": "/(.*)", "destination": "/" }
+    }
   ]
 }
