@@ -13,8 +13,8 @@
       "destination": "https://easy-visual-scraper.vercel.app/config"
     },
      {
-      "source": "/easy-visual-scraper/config",
-      "destination": "https://easy-visual-scraper.vercel.app/config"
+      "source": "/easy-visual-scraper/scrape",
+      "destination": "https://easy-visual-scraper.vercel.app/scrape"
     },
     {
       "source": "/not-just/:match*",
