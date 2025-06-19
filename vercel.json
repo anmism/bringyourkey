@@ -5,16 +5,8 @@
       "destination": "https://bulk-email-sender-psi.vercel.app/:match*"
     },
     {
-      "source": "/easy-visual-scraper",
-      "destination": "https://easy-visual-scraper.vercel.app"
-    },
-     {
-      "source": "/easy-visual-scraper/config",
-      "destination": "https://easy-visual-scraper.vercel.app/config"
-    },
-     {
-      "source": "/easy-visual-scraper/scrape",
-      "destination": "https://easy-visual-scraper.vercel.app/scrape"
+      "source": "/easy-visual-scraper/:match*",
+      "destination": "https://easy-visual-scraper.vercel.app/:match*"
     },
     {
       "source": "/not-just/:match*",
