@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/bulk-email-sender/:match*",
+      "destination": "https://bulk-email-sender-orcin.vercel.app/:match*"
+    },
+    {
+      "source": "/easy-visual-scraper/:match*",
+      "destination": "https://easy-visual-scraper.vercel.app/:match*"
+    },
+    {
+      "source": "/not-just/:match*",
+      "destination": "https://not-just-theta.vercel.app/:match*"
+    },
+    {
+      "source": "/github-blog-automator/:match*",
+      "destination": "https://github-blog-automator.vercel.app/:match*"
+    }
+  ]
+}
