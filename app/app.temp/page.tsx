@@ -25,3 +25,5 @@ export async function generateStaticParams() {
     app: app.id,
   }))
 }
+
+//hello
