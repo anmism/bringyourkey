@@ -9,6 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  trailingSlash: true,
   rewrites: async () => {
     return [
       {
@@ -29,11 +30,11 @@ const nextConfig = {
       },
       {
         source: "/not-just",
-        destination: "https://not-just-theta.vercel.app",
+        destination: "https://not-just-six.vercel.app",
       },
       {
         source: "/not-just/:path*",
-        destination: "https://not-just-theta.vercel.app/:path*",
+        destination: "https://not-just-six.vercel.app/:path*",
       },
       {
         source: "/github-blog-automator",
